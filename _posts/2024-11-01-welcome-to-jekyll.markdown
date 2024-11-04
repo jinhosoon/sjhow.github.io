@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome SJH 기술블로그"
 date:   2024-11-01 01:38:56 +0900
 categories: jekyll update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
+<!--more-->
 Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
